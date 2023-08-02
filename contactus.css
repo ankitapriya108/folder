@@ -1,0 +1,229 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.header{
+    width: 100%;
+    background-color: white;
+
+}
+.logo img {
+    height: 40px;
+    width: 200px;
+    margin-left:135px ;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.icons ul{
+    display: flex;
+    list-style: none;
+}
+.icons li{
+  padding:0px  20px; 
+ 
+}
+.icons li a{
+    text-decoration: none;
+    color: black;
+}
+.newlist {
+    font-size: 20px;
+    margin-left: 440px;
+    font-weight: bold;
+}
+.btn button {
+    /* font-size: 14px; */
+    border: 0px;
+    background-color: #4e0fea;
+    /* color: white; */
+    border-radius: 8px;
+    height: 37px;
+    width: 140px;
+    margin-right: 160px;
+}
+.btn button a{
+    font-size:14px ;
+    color: white;
+    text-decoration: none;
+}
+.head h1{
+    font-size: 40px;
+    padding-top: 30px;
+    text-align: center;
+}
+.head{
+    margin-top: 40px;
+}
+.box{
+    height: 500px;
+    width: 100%;
+    background-color: #4e0fea;
+}
+.box h1{
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    padding-top: 35px;
+}
+.box form label{
+    color: white;
+    margin-left: 30px;
+}
+.box form{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.box form input{
+    height: 42px;
+    width: 575px;
+   
+}
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 45px;
+}
+
+.two label{
+    color: white;
+}
+.two{
+    margin-left: 182px;
+}
+.two textarea{
+    width: 1205px;
+    height: 120px;
+
+}
+.box button {
+    width: 140px;
+    height: 43px;
+    margin-left: 182px;
+    font-size: 19px;
+    border-radius: 3px;
+}
+.first{
+    height: 200px;
+    width: 550px;
+    border: 3px solid #eeeeee;
+    margin-left: 50px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+.body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    position: relative;
+}
+.first img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+position: absolute;
+bottom: 138px;
+left: 413px;
+}
+
+.first h1{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 100px;
+}
+.first p{
+    text-align: center;
+}
+.second{
+    height: 200px;
+    width: 550px;
+    border: 3px solid #eeeeee;
+    margin-left: 50px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+.second img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+position: absolute;
+bottom: 137px;
+left: 1015px;
+}
+
+.second h1{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 100px;
+}
+.second p{
+    text-align: center;
+}
+.number h1{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 100px;
+}
+.number button{
+    height: 50px;
+    width: 200px;
+    background-color: #4e0fea;
+    color: white;
+    margin-left: 663px;
+    border-radius: 25px;
+    font-size: 17px;
+    border: 0;
+    margin-top: 10px;
+}
+.lastbox{
+    height: 300px;
+    width: 100%;
+    background-color: #4e0fea;
+    margin-top: 30px;
+}
+.lastlogo img
+{
+    height: 100px;
+    width: 200px;
+    margin-left:135px ;
+}
+.iconline {
+    color: white;
+    font-size: 24px;
+    margin-left: 147px;
+}
+.iconline i{
+    margin-left: 10px;
+}
+.line{
+    display: flex;
+    margin-top: 10px;
+}
+.border{
+    border-top:1px solid white ;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+.footername a
+{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin-right: 20px;
+}
+.footername{
+    margin-left: 861px;
+}
+.last {
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 140px;
+}

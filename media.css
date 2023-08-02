@@ -1,0 +1,85 @@
+@media screen and (min-width:320px) and (max-width:570px) {
+
+    .main
+    {
+        display: none;
+    }
+    .heading
+    {
+        flex-direction: column;
+    }
+    .boxes
+    {
+        flex-direction: column;
+        margin: 0;
+    }
+    .content
+    {
+        width: unset;
+        height: unset;
+        flex-direction: column;
+    }
+    .initiatives
+    {
+        flex-direction: column;
+    }
+    .lastinitial
+    {
+        flex-direction: column;
+    }
+    .mainicons
+    {
+        flex-direction: column;
+    }
+    .newflex
+    {
+        flex-direction: column;
+    }
+    .boxone{
+        margin-left: 0;
+        margin-top: 12px;
+    }
+    .boxtwo{
+        margin-left: 0;
+        margin-top: 12px;
+    }
+    .boxthree {
+        margin-left: 0;
+        margin-top: 12px;
+    }
+    .innerbox h1 {
+        color: white;
+        text-align: center;
+        font-size: 24px;
+        padding: 11px 0px;
+    }
+.contentone {
+    margin: 0;
+}
+.background {
+    height: unset;
+    margin-top: 35px;
+}
+.contentthree{
+    margin: 0;
+}
+.one{
+    width: 178px;
+}
+.two {
+    height: 400px;
+    width: 390px;
+}
+.contentthree{
+    height: unset;
+    width: unset;
+}
+.contentone{
+    height: unset;
+    width: unset;
+}
+.contenttwo{
+    height: unset;
+    width: unset;
+}
+}

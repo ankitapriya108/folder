@@ -1,0 +1,447 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}.logo img {
+    height: 40px;
+    width: 200px;
+    margin-left:135px ;
+}
+.heading{
+    display: flex;
+    margin-top: 10px;
+}
+.button button{
+    height: 36px;
+    width: 150px;
+    border-radius: 5px;
+    background-color:#6032ff;
+    font-weight: bold;
+    border: 0px; 
+    margin-left: 600px; 
+}
+.button button a{
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+.icons i{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.bigbox{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(71 25 255);
+    text-align: center;
+    margin-top: 5px;
+}
+.bigbox h1{
+    font-size: 80px;
+    padding-top: 80px;
+    color: white;
+}
+.bigbox p{
+    font-size: 25px;
+    color: white;
+    padding-top: 20px;
+}
+.bigbox button{
+    height: 75px;
+    width: 180px;
+    background-color: white;
+    margin-top:30px ;
+}
+.bigbox button a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+
+.title h1{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+}
+.list{
+    height: 100px;
+    width: 100%;
+    background-color:white;
+}
+.box{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.flex{
+    display: flex;
+    margin-left: 10px; 
+}
+.flex i{
+    /* margin-left: 5px; */
+}
+.flex p{
+    margin-left: 12px;
+}
+.box h1{
+    font-size: 25px;
+}
+.list{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+.list h1{
+    font-size: 25px;
+    margin-right: 10px;
+}
+.list select {
+    font-size: 17px;
+    height: 30px;
+    margin-right: 10px;
+    width: 150px;
+}
+
+.btn button {
+        height: 35px;
+        width: 117px;
+        margin-left: 846px;
+        background-color: #666666;
+    }
+    
+
+
+.btn button a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.full{
+    display: flex;
+}
+.boxtwo{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxtwo h1{
+    font-size: 23px;
+}
+.boxthree{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxthree h1{
+    font-size: 23px;
+}
+.boxfour{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxfour h1{
+    font-size: 23px;
+}
+.btnone button {
+    height: 35px;
+    width: 117px;
+    margin-left: 574px;
+    background-color: #666666;
+}
+.btnone button a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.boxfive{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxfive h1{
+    font-size: 22px;
+}
+.btntwo button {
+    height: 35px;
+    width: 117px;
+    margin-left: 874px;
+    background-color: #666666;
+}
+.btntwo button a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.boxsix{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxsix h1{
+    font-size: 20px;
+}
+.btnthree button {
+    height: 35px;
+    width: 117px;
+    margin-left: 874px;
+    background-color: #666666;
+}
+.btnthree button a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.boxseven{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxseven h1{
+    font-size: 20px;
+}
+.btnfour button {
+    height: 35px;
+    width: 117px;
+    margin-left: 673px;
+    background-color: #666666;
+}
+.btnfour button a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.boxeight{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxeight h1{
+    font-size: 22px;
+}
+.btnfive button {
+    height: 35px;
+    width: 117px;
+    margin-left: 685px;
+    background-color: #666666;
+}
+.btnfive button a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+
+.boxnine{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxnine h1{
+    font-size: 21px;
+}
+.btnsix button {
+    height: 35px;
+    width: 117px;
+    margin-left: 678px;
+    background-color: #666666;
+}
+.btnsix button a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.boxten{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxten h1{
+    font-size: 20px;
+}
+.btnseven button {
+    height: 35px;
+    width: 117px;
+    margin-left: 542px;
+    background-color: #666666;
+}
+.btnseven button a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+
+.boxeleven{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxeleven h1{
+    font-size: 20px;
+}
+.btneight button {
+    height: 35px;
+    width: 117px;
+    margin-left: 831px;
+    background-color: #666666;
+}
+.btneight button a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.boxtwelve{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxtwelve h1{
+    font-size: 24px;
+}
+.btnnine button {
+    height: 35px;
+    width: 117px;
+    margin-left: 833px;
+    background-color: #666666;
+}
+.btnnine button a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.boxthirteen{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxthirteen h1{
+    font-size: 24px;
+}
+.btnten button {
+    height: 35px;
+    width: 117px;
+    margin-left: 753px;
+    background-color: #666666;
+}
+.btnten button a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.boxfourteen{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxfourteen h1{
+    font-size: 24px;
+}
+.btneleven button {
+    height: 35px;
+    width: 117px;
+    margin-left: 805px;
+    background-color: #666666;
+}
+.btneleven button a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.boxfifteen{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxfifteen h1{
+    font-size: 24px;
+}
+.btntwelve button {
+    height: 35px;
+    width: 117px;
+    margin-left: 799px;
+    background-color: #666666;
+}
+.btntwelve button a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.boxsixteen{
+    height: 100px;
+    width: 75%;
+    background-color:white;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.boxsixteen h1{
+    font-size: 24px;
+}
+.btnthirteen button {
+    height: 35px;
+    width: 117px;
+    margin-left: 873px;
+    background-color: #666666;
+}
+.btnthirteen button a{
+font-size: 20px;
+text-decoration: none;
+color: white;
+}
+.ending{
+    height: 80px;
+    width: 100%;
+    background-color: #444444;
+}
+.ending{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.ending h1{
+    color: white;
+    font-size: 20px;
+}
+.ending p {
+    margin-right: 15px;
+    color: white;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.ending{
+    margin-top: 20px;
+    padding-top: 25px;
+}
+
